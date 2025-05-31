@@ -4,11 +4,12 @@
 
 import os
 from dotenv import load_dotenv
+nano config.py
 
 load_dotenv()
 
 # VPS --- FILL COOKIES 🍪 in """ ... """ 
-
+nano config.py
 INST_COOKIES = """
 # wtite up here insta cookies
 """
